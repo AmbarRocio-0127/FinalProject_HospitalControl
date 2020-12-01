@@ -1,0 +1,96 @@
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\Control_Médico.exe.config
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\Control_Médico.exe
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\Control_Médico.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\stdole.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Alta_medica.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Citas.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.gestionHosp.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Gestion_mantenimientos.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Internamiento.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Mant_Doctores.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.mant_pacientes.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Mant_Rooms.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Modulos_Procesos.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.M_Consultas.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.Properties.Resources.resources
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.csproj.GenerateResource.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.csproj.CopyComplete
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.exe
+C:\Users\Ambar Rocio\Desktop\Control_Medico\Control_Médico\obj\Debug\Control_Médico.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\Control_Médico.exe.config
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\Control_Médico.exe
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\Control_Médico.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\stdole.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Alta_medica.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Citas.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.gestionHosp.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Gestion_mantenimientos.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Internamiento.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Mant_Doctores.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.mant_pacientes.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Mant_Rooms.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Modulos_Procesos.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.M_Consultas.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.Properties.Resources.resources
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.csproj.GenerateResource.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.csproj.CopyComplete
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.exe
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\Control_Médico\obj\Debug\Control_Médico.pdb

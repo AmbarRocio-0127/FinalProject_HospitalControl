@@ -1,0 +1,39 @@
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\Google.Protobuf.xml
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\bin\Debug\Renci.SshNet.xml
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

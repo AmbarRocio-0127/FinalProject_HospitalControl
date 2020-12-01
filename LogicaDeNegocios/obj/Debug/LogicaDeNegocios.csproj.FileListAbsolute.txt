@@ -1,0 +1,45 @@
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\Google.Protobuf.xml
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\bin\Debug\Renci.SshNet.xml
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CopyComplete
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\source\repos\Control_Médico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CopyComplete
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\Desktop\Control_Medico\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\MySql.Data.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\Google.Protobuf.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\Renci.SshNet.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\bin\Debug\MySql.Data.xml
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CopyComplete
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.dll
+C:\Users\Ambar Rocio\Desktop\proyecto hospital contol\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.pdb
