@@ -61,5 +61,10 @@ namespace Control_Médico
             consultar = new Consulta_Context_Strategy(new Alta());
             dataGridViewconsulta.DataSource = consultar.Listar();
         }
+
+        private void M_Consultas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

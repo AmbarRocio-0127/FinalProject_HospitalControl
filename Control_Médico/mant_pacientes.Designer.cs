@@ -273,6 +273,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "mant_pacientes";
             this.Text = "Mantenimiento de pacientes";
+            this.Load += new System.EventHandler(this.mant_pacientes_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvdatasearchpatiente)).EndInit();
             this.ResumeLayout(false);

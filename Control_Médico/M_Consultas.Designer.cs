@@ -185,6 +185,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "M_Consultas";
             this.Text = "Módulo de Consultas";
+            this.Load += new System.EventHandler(this.M_Consultas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewconsulta)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

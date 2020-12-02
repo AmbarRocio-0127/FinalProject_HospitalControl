@@ -96,5 +96,10 @@ namespace Control_Médico
         {
             dataGridViewaltas.DataSource = elt_.Listar();
         }
+
+        private void Alta_medica_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

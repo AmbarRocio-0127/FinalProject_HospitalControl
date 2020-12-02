@@ -53,6 +53,11 @@ namespace CapaAccesoDatos
             comando.Connection = c.Open_Conection();
             comando.CommandText = "Delete from appointment where id_appointment = " + idcita + ";";
             comando.ExecuteNonQuery();
+            MySqlCommand alter = new MySqlCommand(string.Format("alter table appointment drop id_appointment;"), ClassConexion.connectiondatabase);
+            alter.ExecuteNonQuery();
+            MySqlCommand alter_ = new MySqlCommand(string.Format("ALTER TABLE appointment ADD COLUMN id_appointment int NOT NULL PRIMARY KEY AUTO_INCREMENT FIRST;"),
+            ClassConexion.connectiondatabase);
+            alter_.ExecuteNonQuery();
             c.Closed_Conection();
         }
 

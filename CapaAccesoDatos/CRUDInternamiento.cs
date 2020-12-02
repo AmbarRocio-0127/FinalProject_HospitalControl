@@ -53,6 +53,11 @@ namespace CapaAccesoDatos
             comando.Connection = c.Open_Conection();
             comando.CommandText = "Delete from internships where id_internships = '" + idinternamiento + "'";
             comando.ExecuteNonQuery();
+            MySqlCommand alter = new MySqlCommand(string.Format("alter table internships drop id_internships;"), ClassConexion.connectiondatabase);
+            alter.ExecuteNonQuery();
+            MySqlCommand alter_ = new MySqlCommand(string.Format("ALTER TABLE internships ADD COLUMN id_internships int NOT NULL PRIMARY KEY AUTO_INCREMENT FIRST;"),
+            ClassConexion.connectiondatabase);
+            alter_.ExecuteNonQuery();
             c.Closed_Conection();
         }
 

@@ -80,6 +80,11 @@ namespace Control_Médico
                 MessageBox.Show("Error. " + ex.Message);
             }
         }
+
+        private void mant_pacientes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

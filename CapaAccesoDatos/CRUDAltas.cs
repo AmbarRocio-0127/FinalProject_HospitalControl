@@ -51,6 +51,11 @@ namespace CapaAccesoDatos
             comando.Connection = c.Open_Conection();
             comando.CommandText = "Delete from medical_discharge where id_med_disc = " + idalta + ";";
             comando.ExecuteNonQuery();
+            MySqlCommand alter = new MySqlCommand(string.Format("alter table medical_discharge drop id_med_disc;"), ClassConexion.connectiondatabase);
+            alter.ExecuteNonQuery();
+            MySqlCommand alter_ = new MySqlCommand(string.Format("ALTER TABLE medical_discharge ADD COLUMN id_med_disc int NOT NULL PRIMARY KEY AUTO_INCREMENT FIRST;"),
+            ClassConexion.connectiondatabase);
+            alter_.ExecuteNonQuery();
             c.Closed_Conection();
         }
 

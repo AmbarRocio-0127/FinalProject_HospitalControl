@@ -260,7 +260,6 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Alta_medica";
             this.Text = "Alta Médica";
-
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewaltas)).EndInit();
             this.ResumeLayout(false);
